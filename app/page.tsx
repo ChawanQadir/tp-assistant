@@ -75,9 +75,7 @@ export default function HomePage() {
           <h1 className="text-5xl font-bold tracking-tight mb-5 leading-tight" style={{ color: NAVY }}>
             TP ORCA AI
           </h1>
-          <p className="text-sm text-slate-500 mt-4">
-            Built by Chawan Qadir
-          </p>
+
           <p className="text-xl text-slate-500 max-w-2xl mx-auto mb-3 font-medium">
             Transfer Pricing Risk &amp; Controls Intelligence
           </p>
